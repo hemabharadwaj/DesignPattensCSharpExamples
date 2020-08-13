@@ -16,3 +16,6 @@ D:\Hema\Trainings\DesignPattensCSharp\DesignPatternTest\bin\Debug\netcoreapp2.1\
 D:\Hema\Trainings\DesignPattensCSharp\DesignPatternTest\bin\Debug\netcoreapp2.1\SingletonPattern.pdb
 D:\Hema\Trainings\DesignPattensCSharp\DesignPatternTest\bin\Debug\netcoreapp2.1\SingletonPattern.exe.config
 D:\Hema\Trainings\DesignPattensCSharp\DesignPatternTest\obj\Debug\netcoreapp2.1\DesignPatternTest.csproj.CopyComplete
+D:\Hema\Trainings\DesignPattensCSharp\DesignPatternTest\bin\Debug\netcoreapp2.1\FactoryPattern.exe
+D:\Hema\Trainings\DesignPattensCSharp\DesignPatternTest\bin\Debug\netcoreapp2.1\FactoryPattern.pdb
+D:\Hema\Trainings\DesignPattensCSharp\DesignPatternTest\bin\Debug\netcoreapp2.1\FactoryPattern.exe.config

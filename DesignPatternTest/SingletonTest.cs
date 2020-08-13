@@ -15,7 +15,7 @@ namespace DesignPatternTest
         }
 
         [Fact]
-        public void Test1_LazyLoading()
+        public void Test2_LazyLoading()
         {
             SingletonPattern.Ex2_LazyLoading.Cache cache = SingletonPattern.Ex2_LazyLoading.Cache.getInstance();
             SingletonPattern.Ex2_LazyLoading.Cache cache1 = SingletonPattern.Ex2_LazyLoading.Cache.getInstance();
@@ -23,7 +23,7 @@ namespace DesignPatternTest
         }
 
         [Fact]
-        public void Test1_DoubleCheck()
+        public void Test3_DoubleCheck()
         {
             SingletonPattern.Ex3_DoubleCheck.Cache cache = SingletonPattern.Ex3_DoubleCheck.Cache.getInstance();
             SingletonPattern.Ex3_DoubleCheck.Cache cache1 = SingletonPattern.Ex3_DoubleCheck.Cache.getInstance();
@@ -31,7 +31,7 @@ namespace DesignPatternTest
         }
 
         [Fact]
-        public void Test1_StaticHelper()
+        public void Test4_StaticHelper()
         {
             SingletonPattern.Ex4_StaticHelper.Cache cache = SingletonPattern.Ex4_StaticHelper.Cache.getInstance();
             SingletonPattern.Ex4_StaticHelper.Cache cache1 = SingletonPattern.Ex4_StaticHelper.Cache.getInstance();
@@ -39,7 +39,7 @@ namespace DesignPatternTest
         }
 
         [Fact]
-        public void Test1_IntefaceBased()
+        public void Test5_IntefaceBased()
         {
             SingletonPattern.Ex5_IntefaceBased.Cache cache = SingletonPattern.Ex5_IntefaceBased.Cache.getInstance();
             SingletonPattern.Ex5_IntefaceBased.Cache cache1 = SingletonPattern.Ex5_IntefaceBased.Cache.getInstance();

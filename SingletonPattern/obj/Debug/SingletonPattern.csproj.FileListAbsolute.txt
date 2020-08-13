@@ -4,3 +4,4 @@ D:\Hema\Trainings\DesignPattensCSharp\SingletonPattern\bin\Debug\SingletonPatter
 D:\Hema\Trainings\DesignPattensCSharp\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
 D:\Hema\Trainings\DesignPattensCSharp\SingletonPattern\obj\Debug\SingletonPattern.exe
 D:\Hema\Trainings\DesignPattensCSharp\SingletonPattern\obj\Debug\SingletonPattern.pdb
+D:\Hema\Trainings\DesignPattensCSharp\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
