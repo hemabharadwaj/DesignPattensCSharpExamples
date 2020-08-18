@@ -1,0 +1,14 @@
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\bin\Debug\ex03-double-check.exe.config
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\bin\Debug\ex03-double-check.exe
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\bin\Debug\ex03-double-check.pdb
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\bin\Debug\xunit.abstractions.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\bin\Debug\xunit.assert.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\bin\Debug\xunit.core.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\bin\Debug\xunit.execution.desktop.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\obj\Debug\ex03-double-check.csproj.CoreCompileInputs.cache
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\obj\Debug\ex03-double-check.csproj.CopyComplete
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\obj\Debug\ex03-double-check.exe
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\obj\Debug\ex03-double-check.pdb
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\bin\Debug\xunit.runner.reporters.net452.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex03-double-check\bin\Debug\xunit.runner.utility.net452.dll

@@ -13,8 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FactoryPattern\FactoryPattern.csproj" />
-    <ProjectReference Include="..\SingletonPattern\SingletonPattern.csproj" />
+    <ProjectReference Include="..\ch02-singleton\ch02-singleton.csproj" />
+    <ProjectReference Include="..\ch03-factory\ch03-factory.csproj" />
+    <ProjectReference Include="..\ch04-abstract-factory\ch04-abstract-factory.csproj" />
   </ItemGroup>
 
 </Project>

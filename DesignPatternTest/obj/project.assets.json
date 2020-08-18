@@ -1674,22 +1674,13 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "FactoryPattern/1.0.0": {
+      "ch04-abstract-factory/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/FactoryPattern.dll": {}
+          "bin/placeholder/ch04-abstract-factory.dll": {}
         },
         "runtime": {
-          "bin/placeholder/FactoryPattern.dll": {}
-        }
-      },
-      "SingletonPattern/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/SingletonPattern.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SingletonPattern.dll": {}
+          "bin/placeholder/ch04-abstract-factory.dll": {}
         }
       }
     }
@@ -5904,23 +5895,17 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "FactoryPattern/1.0.0": {
+    "ch04-abstract-factory/1.0.0": {
       "type": "project",
-      "path": "../FactoryPattern/FactoryPattern.csproj",
-      "msbuildProject": "../FactoryPattern/FactoryPattern.csproj"
-    },
-    "SingletonPattern/1.0.0": {
-      "type": "project",
-      "path": "../SingletonPattern/SingletonPattern.csproj",
-      "msbuildProject": "../SingletonPattern/SingletonPattern.csproj"
+      "path": "../ch04-abstract-factory/ch04-abstract-factory.csproj",
+      "msbuildProject": "../ch04-abstract-factory/ch04-abstract-factory.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "FactoryPattern >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
-      "SingletonPattern >= 1.0.0",
+      "ch04-abstract-factory >= 1.0.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
     ]
@@ -5956,11 +5941,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Hema\\Trainings\\DesignPattensCSharp\\FactoryPattern\\FactoryPattern.csproj": {
-              "projectPath": "D:\\Hema\\Trainings\\DesignPattensCSharp\\FactoryPattern\\FactoryPattern.csproj"
-            },
-            "D:\\Hema\\Trainings\\DesignPattensCSharp\\SingletonPattern\\SingletonPattern.csproj": {
-              "projectPath": "D:\\Hema\\Trainings\\DesignPattensCSharp\\SingletonPattern\\SingletonPattern.csproj"
+            "D:\\Hema\\Trainings\\DesignPattensCSharp\\ch04-abstract-factory\\ch04-abstract-factory.csproj": {
+              "projectPath": "D:\\Hema\\Trainings\\DesignPattensCSharp\\ch04-abstract-factory\\ch04-abstract-factory.csproj"
             }
           }
         }

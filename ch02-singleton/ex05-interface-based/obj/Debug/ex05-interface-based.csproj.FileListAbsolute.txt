@@ -1,0 +1,16 @@
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\bin\Debug\ex05-interface-based.exe.config
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\bin\Debug\ex05-interface-based.exe
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\bin\Debug\ex05-interface-based.pdb
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\bin\Debug\xunit.abstractions.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\bin\Debug\xunit.assert.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\bin\Debug\xunit.core.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\bin\Debug\xunit.execution.desktop.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\obj\Debug\ex05-interface-based.csprojAssemblyReference.cache
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\obj\Debug\ex05-interface-based.csproj.CoreCompileInputs.cache
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\obj\Debug\ex05-interface-based.csproj.CopyComplete
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\obj\Debug\ex05-interface-based.exe
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\obj\Debug\ex05-interface-based.pdb
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\bin\Debug\xunit.runner.reporters.net452.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex05-interface-based\bin\Debug\xunit.runner.utility.net452.dll

@@ -8,9 +8,10 @@
     ".NETCoreApp,Version=v2.1": {
       "DesignPatternTest/1.0.0": {
         "dependencies": {
-          "FactoryPattern": "1.0.0",
           "Microsoft.NET.Test.Sdk": "15.9.0",
-          "SingletonPattern": "1.0.0",
+          "ch02-singleton": "1.0.0",
+          "ch03-factory": "1.0.0",
+          "ch04-abstract-factory": "1.0.0",
           "xunit": "2.4.0",
           "xunit.runner.visualstudio": "2.4.0"
         },
@@ -1055,14 +1056,19 @@
           "Microsoft.NET.Test.Sdk": "15.9.0"
         }
       },
-      "FactoryPattern/1.0.0": {
+      "ch02-singleton/1.0.0": {
+        "runtime": {
+          "SingletonPattern.exe": {}
+        }
+      },
+      "ch03-factory/1.0.0": {
         "runtime": {
           "FactoryPattern.exe": {}
         }
       },
-      "SingletonPattern/1.0.0": {
+      "ch04-abstract-factory/1.0.0": {
         "runtime": {
-          "SingletonPattern.exe": {}
+          "AbstractFactory.exe": {}
         }
       }
     }
@@ -1605,12 +1611,17 @@
       "path": "xunit.runner.visualstudio/2.4.0",
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
-    "FactoryPattern/1.0.0": {
+    "ch02-singleton/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "SingletonPattern/1.0.0": {
+    "ch03-factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ch04-abstract-factory/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
