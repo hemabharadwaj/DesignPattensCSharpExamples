@@ -1,7 +1,7 @@
 ﻿using Company.Example.Interface;
 using Xunit;
 
-namespace Company.Example.test
+namespace Company.Example
 {
     public class ApplicationTest
     {

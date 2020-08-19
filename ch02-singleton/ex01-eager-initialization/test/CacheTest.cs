@@ -7,9 +7,9 @@ namespace Company.Example
         [Fact]
         public void check_object_is_same()
         {
+            Cache target = Cache.getInstance();
             Cache cache = Cache.getInstance();
-            Cache cache1 = Cache.getInstance();
-            Assert.Equal(cache, cache1);
+            Assert.Equal(target, cache);
         }
     }
 }
