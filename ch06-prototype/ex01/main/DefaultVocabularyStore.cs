@@ -1,10 +1,9 @@
-﻿using System;
+﻿using Company.Example.Interface;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ch06_prototype.ex01
+namespace Company.Example
 {
     public class DefaultVocabularyStore : IVocabularyStore
     {
@@ -17,8 +16,8 @@ namespace ch06_prototype.ex01
         {
             this.wordMap = new Dictionary<string, string>();
             // expensive word loading operation here
-            this.wordMap.put("feature", "n. Not an issue");
-            this.wordMap.put("night", "n. Slogging for the whole night");
+            this.wordMap.Add("feature", "n. Not an issue");
+            this.wordMap.Add("night", "n. Slogging for the whole night");
         }
 
 
@@ -26,9 +25,9 @@ namespace ch06_prototype.ex01
         public IVocabularyStore getCopy()
         {
             Dictionary<String, String> newWordMap = new Dictionary<String, String>();
-            for (Entry<String, String> entry : wordMap.entrySet())
+            foreach (var entry in wordMap)
             {
-                newWordMap.put(entry.getKey(), entry.getValue());
+                newWordMap.Add(entry.Key, entry.Value);
             }
             return new DefaultVocabularyStore(newWordMap);
         }
@@ -40,7 +39,8 @@ namespace ch06_prototype.ex01
 
         public List<string> getUnlearnedWords()
         {
-            throw new NotImplementedException();
+            // some logic
+            return null;
         }
 
         public int getWordCount()
@@ -48,19 +48,20 @@ namespace ch06_prototype.ex01
             return wordMap.Count;
         }
 
-        public ISet<string> getWordList()
+        public List<string> getWordList()
         {
-            return wordMap.Keys.All();
+            return wordMap.Keys.ToList();
         }
 
         public void setWordLearned(string word)
         {
-            throw new NotImplementedException();
+            // some logic
         }
 
         public void setWordUnLearned(string word)
         {
-            throw new NotImplementedException();
+            // some logic
         }
+
     }
 }

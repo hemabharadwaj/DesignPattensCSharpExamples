@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Company.Example.Interface;
 
-namespace ch06_prototype.ex01
+namespace Company.Example
 {
     public class VocabularyStoreFactory
     {
