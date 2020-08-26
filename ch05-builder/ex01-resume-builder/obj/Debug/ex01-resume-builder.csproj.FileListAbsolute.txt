@@ -1,0 +1,15 @@
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\bin\Debug\xunit.abstractions.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\bin\Debug\xunit.runner.reporters.net452.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\bin\Debug\xunit.runner.utility.net452.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\bin\Debug\ex01-resume-builder.exe.config
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\bin\Debug\ex01-resume-builder.exe
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\bin\Debug\ex01-resume-builder.pdb
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\bin\Debug\xunit.assert.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\bin\Debug\xunit.core.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\bin\Debug\xunit.execution.desktop.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\obj\Debug\ex01-resume-builder.csprojAssemblyReference.cache
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\obj\Debug\ex01-resume-builder.csproj.CoreCompileInputs.cache
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\obj\Debug\ex01-resume-builder.csproj.CopyComplete
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\obj\Debug\ex01-resume-builder.exe
+D:\Hema\Trainings\DesignPattensCSharp\ch05-builder\ex01-resume-builder\obj\Debug\ex01-resume-builder.pdb

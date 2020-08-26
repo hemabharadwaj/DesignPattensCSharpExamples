@@ -1,0 +1,15 @@
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\bin\Debug\xunit.abstractions.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\bin\Debug\xunit.runner.reporters.net452.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\bin\Debug\xunit.runner.utility.net452.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\bin\Debug\ex01.exe.config
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\bin\Debug\ex01.exe
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\bin\Debug\ex01.pdb
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\bin\Debug\xunit.assert.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\bin\Debug\xunit.core.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\bin\Debug\xunit.execution.desktop.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\obj\Debug\ex01.csprojAssemblyReference.cache
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\obj\Debug\ex01.csproj.CoreCompileInputs.cache
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\obj\Debug\ex01.csproj.CopyComplete
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\obj\Debug\ex01.exe
+D:\Hema\Trainings\DesignPattensCSharp\ch06-prototype\ex01\obj\Debug\ex01.pdb

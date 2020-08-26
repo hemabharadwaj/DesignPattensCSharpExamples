@@ -12,3 +12,4 @@ D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex02-lazy-loading\obj\Debug
 D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex02-lazy-loading\bin\Debug\xunit.runner.visualstudio.testadapter.dll
 D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex02-lazy-loading\bin\Debug\xunit.runner.reporters.net452.dll
 D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex02-lazy-loading\bin\Debug\xunit.runner.utility.net452.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex02-lazy-loading\obj\Debug\ex02-lazy-loading.csprojAssemblyReference.cache

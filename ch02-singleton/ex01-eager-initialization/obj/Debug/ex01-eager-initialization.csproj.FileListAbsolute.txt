@@ -12,3 +12,4 @@ D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex01-eager-initialization\o
 D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex01-eager-initialization\bin\Debug\xunit.runner.visualstudio.testadapter.dll
 D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex01-eager-initialization\bin\Debug\xunit.runner.reporters.net452.dll
 D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex01-eager-initialization\bin\Debug\xunit.runner.utility.net452.dll
+D:\Hema\Trainings\DesignPattensCSharp\ch02-singleton\ex01-eager-initialization\obj\Debug\ex01-eager-initialization.csprojAssemblyReference.cache
